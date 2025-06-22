@@ -1,1 +1,1 @@
-# tic-toc-game
+stone paper scissors
